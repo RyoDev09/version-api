@@ -8,5 +8,35 @@
         "package": "Super VIP",
         "price": "99000",
         "desc": "Thêm auto luyên boss, auto né chiêu, auto farm toàn map"
+    },
+    {
+        "package": "VIP2",
+        "price": "50000",
+        "desc": "Full chức năng VIP: Auto PK, auto luyện, buff tốc đánh"
+    },
+    {
+        "package": "Super VIP2",
+        "price": "99000",
+        "desc": "Thêm auto luyên boss, auto né chiêu, auto farm toàn map"
+    },
+    {
+        "package": "VIP3",
+        "price": "50000",
+        "desc": "Full chức năng VIP: Auto PK, auto luyện, buff tốc đánh"
+    },
+    {
+        "package": "Super VIP3",
+        "price": "99000",
+        "desc": "Thêm auto luyên boss, auto né chiêu, auto farm toàn map"
+    },
+    {
+        "package": "VIP4",
+        "price": "50000",
+        "desc": "Full chức năng VIP: Auto PK, auto luyện, buff tốc đánh"
+    },
+    {
+        "package": "Super VIP4",
+        "price": "99000",
+        "desc": "Thêm auto luyên boss, auto né chiêu, auto farm toàn map"
     }
 ]
