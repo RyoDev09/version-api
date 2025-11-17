@@ -1,42 +1,51 @@
 [
     {
-        "package": "VIP",
-        "price": "50000",
-        "desc": "Full chức năng VIP: Auto PK, auto luyện, buff tốc đánh"
+        "package": "Cơ Bản",
+        "price": "30.000",
+        "desc": "Luyện đá, buff, relogin, speed..."
     },
     {
-        "package": "Super VIP",
-        "price": "99000",
-        "desc": "Thêm auto luyên boss, auto né chiêu, auto farm toàn map"
+        "package": "Auto - nvhn",
+        "price": "30.000",
+        "desc": "Làm nvhn, tà thú, vượt ải"
     },
     {
-        "package": "VIP2",
-        "price": "50000",
-        "desc": "Full chức năng VIP: Auto PK, auto luyện, buff tốc đánh"
+        "package": "Auto Thí Luyện",
+        "price": "50.000",
+        "desc": "Auto thí luyện 4x → 6x → 12x"
     },
     {
-        "package": "Super VIP2",
-        "price": "99000",
-        "desc": "Thêm auto luyên boss, auto né chiêu, auto farm toàn map"
+        "package": "Up Làng Cổ",
+        "price": "200.000",
+        "desc": "Goback theo vị trí hoặc ATL (kèm cơ bản + lọc rác)"
     },
     {
-        "package": "VIP3",
-        "price": "50000",
-        "desc": "Full chức năng VIP: Auto PK, auto luyện, buff tốc đánh"
+        "package": "Goback hầm",
+        "price": "70.000",
+        "desc": "Up hầm: Goback hầm (trừ hầm 4 mới, hầm 3 không đánh vị trí)"
     },
     {
-        "package": "Super VIP3",
-        "price": "99000",
-        "desc": "Thêm auto luyên boss, auto né chiêu, auto farm toàn map"
+        "package": "Né PK",
+        "price": "70.000",
+        "desc": "Né PK – cứu sát theo HP, né bất kỳ ai"
     },
     {
-        "package": "VIP4",
-        "price": "50000",
-        "desc": "Full chức năng VIP: Auto PK, auto luyện, buff tốc đánh"
+        "package": "Né Tinh Anh - Thủ Lĩnh",
+        "price": "150000",
+        "desc": "Né toàn bộ TA - TL trong map"
     },
     {
-        "package": "Super VIP4",
-        "price": "99000",
-        "desc": "Thêm auto luyên boss, auto né chiêu, auto farm toàn map"
+        "package": "Lọc Đồ",
+        "price": "50.000",
+        "desc": "Lọc trang bị, trang sức, tbt, đá 4321..."
+    },
+    {
+        "package": "Auto Chat",
+        "price": "30.000",
+        "desc": "AutoChat: Spam chậm thôi nha"
+    },
+    {
+        "package": "Up Nhẫn Giả",
+        "price": "100.000",
+        "desc": "Auto farm tà thú, có chuyển map 24/24"
     }
-]
