@@ -1,4 +1,12 @@
-{
-    "version": "1.0.1",
-    "zip_id": "1ss-qsn0r9dGUKqMu-_vTW0wIrqdwJZxz" 
-}
+[
+    {
+        "package": "VIP",
+        "price": "50000",
+        "desc": "Full chức năng VIP: Auto PK, auto luyện, buff tốc đánh"
+    },
+    {
+        "package": "Super VIP",
+        "price": "99000",
+        "desc": "Thêm auto luyên boss, auto né chiêu, auto farm toàn map"
+    }
+]
